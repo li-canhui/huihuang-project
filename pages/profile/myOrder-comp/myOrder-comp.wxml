@@ -1,0 +1,20 @@
+<!--pages/profile/myOrder-comp/myOrder-comp.wxml-->
+<!-- 我的订单 样式 -->
+<view class="container">
+  <view>
+    <image src="../../../assets/images/profiles/pf6.png"/>
+    <view>代付款</view>
+  </view>
+  <view>
+    <image src="../../../assets/images/profiles/pf7.png"/>
+    <view>代收货</view>
+  </view>
+  <view>
+    <image src="../../../assets/images/profiles/pf8.png"/>
+    <view>待评论</view>
+  </view>
+  <view>
+    <image src="../../../assets/images/profiles/pf9.png"/>
+    <view>退款/售后</view>
+  </view>
+</view>

@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/profile/profile",
+    "pages/customerService/customerService",
+    "pages/category/category",
+    "pages/cart/cart"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#1f1f1f",
+    "navigationBarTitleText": "辉煌商城",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "selectedColor": "#ff4c4f",
+    "color": "#777777",
+    "list": [
+      {
+      "pagePath": "pages/index/index",
+      "text": "首页",
+      "iconPath": "./assets/images/tabbar/index.png",
+      "selectedIconPath": "./assets/images/tabbar/index_active.png"
+      },
+      {
+        "pagePath": "pages/category/category",
+        "text": "分类",
+        "iconPath": "./assets/images/tabbar/category.png",
+        "selectedIconPath": "./assets/images/tabbar/category_active.png"
+      },
+      {
+        "pagePath": "pages/cart/cart",
+        "text": "购物车",
+        "iconPath": "./assets/images/tabbar/cart.png",
+        "selectedIconPath": "./assets/images/tabbar/cart_active.png"
+      },
+      {
+        "pagePath": "pages/customerService/customerService",
+        "text": "客服",
+        "iconPath": "./assets/images/tabbar/customerservice.png",
+        "selectedIconPath": "./assets/images/tabbar/customerservice_active.png"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "我的",
+        "iconPath": "./assets/images/tabbar/profile.png",
+        "selectedIconPath": "./assets/images/tabbar/profile_active.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

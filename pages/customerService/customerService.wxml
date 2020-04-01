@@ -1,0 +1,10 @@
+<!--pages/customerService/customerService.wxml-->
+<!-- 客服 -->
+<view class="container">
+    <block wx:for="{{ kefuData }}" wx:key="index">
+      <view class="item">
+      <image src="{{ item.url }}"/>
+      <text>{{ item.title }}</text>
+      </view>
+    </block>
+</view>

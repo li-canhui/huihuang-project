@@ -1,0 +1,17 @@
+/* pages/profile/profile.wxss */
+page {
+  background-color: #f0f0f0;
+}
+.img {
+  width: 40rpx;
+  height: 12rpx;
+}
+.t1 {
+  font-size: 28rpx;
+  margin-left: 25rpx; 
+}
+.t2 {
+  font-size: 24rpx;
+  color: #919191;
+  margin-left: 455rpx;
+}

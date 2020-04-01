@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "topSearchBar-comp": "./topSearchBar-comp/topSearchBar-comp",
+    "swiper-comp": "./swiper-comp/swiper-comp",
+    "grid-comp": "./grid-comp/grid-comp",
+    "expressNews-comp": "./expressNews-comp/expressNews-comp",
+    "subsidy-comp": "./subsidy-comp/subsidy-comp"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "top-comp": "./top-comp/top-comp",
+    "integral-comp": "./integral-comp/integral-comp",
+    "myOrder-comp": "./myOrder-comp/myOrder-comp",
+    "bottom-comp": "./bottom-comp/bottom-comp"
+  },
+  "navigationBarBackgroundColor": "#ff4c4f",
+  "navigationBarTitleText": "个人中心",
+  "navigationBarTextStyle": "white"
+}

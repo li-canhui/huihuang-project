@@ -1,0 +1,21 @@
+/* components/search-comp/search-comp.wxss */
+/* 首页顶部搜索框样式 */
+.search {
+  width: 310rpx;
+  border-radius: 60rpx;
+  background-color: white;
+  color: #808080;
+  height: 70rpx;
+  box-sizing: border-box;
+  font-size: 26rpx;
+  padding: 14rpx 0 0 30rpx;
+  margin: 35rpx 0 0 30rpx;
+  position: relative;
+}
+.search > .img {
+  position: absolute;
+  left: 10rpx;
+  top: 15rpx;
+  width: 40rpx;
+  height: 40rpx;
+}

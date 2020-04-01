@@ -1,0 +1,16 @@
+<!--pages/profile/integral-comp/integral-comp.wxml-->
+<!-- 我的积分 -->
+<view class="container">
+  <view>
+    <image src="../../../assets/images/profiles/pf2.png"/>
+    <view>收藏夹</view>
+  </view>
+  <view>
+    <image src="../../../assets/images/profiles/pf3.png"/>
+    <view>优惠卷</view>
+  </view>
+  <view>
+    <image src="../../../assets/images/profiles/pf4.png"/>
+    <view>我的积分</view>
+  </view>
+</view>

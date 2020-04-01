@@ -1,0 +1,55 @@
+/* pages/profile/bottom-comp/bottom-comp.wxss */
+/* 我的-底部 样式 */
+.bottom {
+  background-color: white;
+  width: 95%;
+  border-radius: 15rpx;
+  margin: 0 auto;
+  margin-top: 20rpx;
+  height: 85rpx;
+  padding: 5rpx 0 0 15rpx;
+  box-sizing: border-box;
+}
+.img1 {
+  width: 50rpx;
+  height: 50rpx;
+  position: relative;
+  top: 15rpx;
+  left: 20rpx;
+}
+.img2 {
+  width: 40rpx;
+  height: 12rpx;
+  position: relative;
+  top: 0;
+  left: 300rpx;
+}
+.t1 {
+  font-size: 28rpx;
+  margin-left: 25rpx; 
+}
+.t2 {
+  font-size: 22rpx;
+  color: #919191;
+  position: relative;
+  top: 0;
+  left: 297rpx;
+}
+.s1 {
+  margin-right: 140rpx;
+}
+.s2 {
+  margin-right: 111rpx;
+}
+.s3 {
+  margin-right: 40rpx;
+}
+.s4 {
+  margin-right: 111rpx;
+}
+.s5 {
+  margin-right: 165rpx;
+}
+.s6 {
+  margin-right: 22rpx;
+}

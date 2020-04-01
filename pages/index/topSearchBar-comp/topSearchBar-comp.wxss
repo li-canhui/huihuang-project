@@ -1,0 +1,37 @@
+/* pages/index/topSearchBar/topSearchBar.wxss */
+.topSearchBar-container {
+  display: flex;
+  height: 480rpx;
+  background-size: 100%;
+  text-align: center;
+  padding: 30rpx 45rpx;
+  box-sizing: border-box;
+  background-color: #69bee3;
+  border-radius: 0 0 35% 35%;
+}
+.topSearchBar-container image {
+  width: 60rpx;
+  height: 110rpx;
+}
+.information {
+  margin: 26rpx 0 0 30rpx;
+  color: white;
+  font-size: 25rpx;
+  line-height: 40rpx;
+}
+.information image {
+  width: 45rpx;
+  height: 45rpx;
+}
+.text {
+  line-height: 38rpx;
+  margin: 33rpx 0 0 30rpx;
+}
+.text > .t1 {
+  color: white;
+  font-size: 30rpx;
+}
+.text > .t2 {
+  color: white;
+  font-size: 16rpx;
+}

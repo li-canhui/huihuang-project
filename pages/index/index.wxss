@@ -1,0 +1,8 @@
+/**index.wxss**/
+/* 页面背景颜色 */
+page {
+    background-color: #f0f0f0;
+}
+body {
+  position: relative;
+}

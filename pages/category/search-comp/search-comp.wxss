@@ -1,0 +1,41 @@
+/* pages/category/search-comp/search-comp.wxss */
+/* 分类顶部搜索栏组件样式 */
+.search-container {
+  background-color: #ff4c4f;
+  display: flex;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 1;
+}
+.search {
+  width: 600rpx;
+  border-radius: 60rpx;
+  background-color: white;
+  color: #808080;
+  height: 70rpx;
+  box-sizing: border-box;
+  font-size: 26rpx;
+  padding: 14rpx 0 0 55rpx;
+  margin: 35rpx 0 0 30rpx;
+  position: relative;
+}
+.search > .img {
+  position: absolute;
+  left: -57rpx;
+  top: 15rpx;
+  width: 40rpx;
+  height: 40rpx;
+}
+.information {
+  margin: 26rpx 0 0 30rpx;
+  color: white;
+  font-size: 25rpx;
+  line-height: 40rpx;
+}
+.information image {
+  width: 45rpx;
+  height: 45rpx;
+  transform: translateX(-68rpx);
+}

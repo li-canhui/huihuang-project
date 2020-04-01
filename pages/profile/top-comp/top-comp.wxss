@@ -1,0 +1,29 @@
+/* pages/profile/top-comp/top-comp.wxss */
+/* 我的-顶部 样式 */
+.container {
+  display: flex;
+  background-color: #ff4c4f;
+  height: 290rpx;
+  box-sizing: border-box;
+  padding: 20rpx 0 0 20rpx;
+  color: white;
+  border-radius: 0 0 30% 30%;
+  margin-bottom: 35rpx;
+}
+.img {
+  width: 110rpx;
+  height: 110rpx;
+}
+.user {
+  line-height: 110rpx;
+  margin-left: 15rpx; 
+}
+.information {
+  margin-left: 270rpx;
+  text-align: center;
+  font-size: 24rpx;
+}
+.information > image {
+  width: 50rpx;
+  height: 60rpx;
+}

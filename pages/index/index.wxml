@@ -1,0 +1,11 @@
+<!--index.wxml-->
+<!-- 顶部搜索栏组件 -->
+<topSearchBar-comp />
+<!-- 轮播图组件 -->
+<swiper-comp list="{{ dataList }}"/>
+<!-- 网格组件 -->
+<grid-comp gridList="{{ gridList }}"/>
+<!-- 快报组件 -->
+<expressNews-comp />
+<!-- 百亿补贴组件 -->
+<subsidy-comp subsidyList="{{ subsidyList }}"/>

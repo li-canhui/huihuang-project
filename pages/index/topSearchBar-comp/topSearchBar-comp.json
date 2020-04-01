@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "search-comp": "../../../components/search-comp/search-comp"
+  }
+}

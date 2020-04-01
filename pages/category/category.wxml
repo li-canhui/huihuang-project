@@ -1,0 +1,16 @@
+<!--pages/category/category.wxml-->
+<!-- 分类顶部搜索组件 -->
+<search-comp />
+<!-- 左边导航条组件 -->
+<navigationLeft-comp titles="{{ list }}"/>
+
+<view class="product-container">
+<!-- 右边产品-上 组件 -->
+  <productRtTop-comp />
+<!-- 右边产品-中 组件 -->
+  <productRtMiddle-comp />
+<!-- 右边产品-下 组件 -->
+  <productRtBottom-comp />
+</view>
+
+

@@ -1,0 +1,14 @@
+<!--pages/index/topSearchBar/topSearchBar.wxml-->
+<!-- 首页顶部搜索栏 -->
+<view class="topSearchBar-container">
+  <image src="../../../assets/images/more/dongmingzhu.png"/>
+  <view class="text">
+    <view class="t1">辉煌商城</view>
+    <view class="t2">- 辉煌商城为您推荐 -</view>
+  </view>
+  <search-comp />
+  <view class="information">
+    <image src="../../../assets/images/more/information.png"/>
+    <view>消息</view>
+  </view>
+</view>

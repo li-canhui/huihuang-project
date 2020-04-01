@@ -1,0 +1,27 @@
+<!--pages/index/subsidy-comp/subsidy-comp.wxml-->
+<!-- 分类右边产品-中 组件 -->
+<view class="rightMiddle-container">
+  <text class="jhbx">蓝晶冰箱</text>
+  <view class="img">
+      <view>
+        <image src="../../../assets/images/categr-right/bx2.png"/>
+        <view>双门</view>
+      </view>
+      <view>
+        <image src="../../../assets/images/categr-right/bx3.png"/>
+        <view>三门</view>
+      </view>
+      <view>
+        <image src="../../../assets/images/categr-right/bx4.png"/>
+        <view>多门</view>
+      </view>
+      <view>
+        <image src="../../../assets/images/categr-right/bx5.png"/>
+        <view>对开</view>
+      </view>
+      <view>
+        <image src="../../../assets/images/categr-right/bx6.png"/>
+        <view>冰柜</view>
+      </view>
+  </view>
+</view>

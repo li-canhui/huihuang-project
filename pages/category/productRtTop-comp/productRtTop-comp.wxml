@@ -1,0 +1,7 @@
+<!--pages/category/productRtTop-comp/productRtTop-comp.wxml-->
+<!-- 分类右边产品-上 -->
+<view class="container">
+  <view class="t1">辉煌冰箱</view>
+  <image src="../../../assets/images/categr-right/bx1.png" />
+  <view class="t2">三门冰箱</view>
+</view>

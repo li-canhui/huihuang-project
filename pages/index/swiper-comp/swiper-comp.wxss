@@ -1,0 +1,13 @@
+/* pages/index/swiper-comp/swiper-comp.wxss */
+/* 首页轮播图样式 */
+.swiper-container {
+  text-align: center;
+  position: absolute;
+  top: 168rpx;
+  left: 0;
+  right: 0;
+}
+.item image {
+  width: 95%;
+  border-radius: 15rpx;
+}

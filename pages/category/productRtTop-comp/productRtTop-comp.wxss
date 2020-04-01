@@ -1,0 +1,24 @@
+/* pages/category/productRtTop-comp/productRtTop-comp.wxss */
+/* 分类右边产品-上 样式 */
+.container {
+  background-color: white;
+  width: 500rpx;
+  height: 300rpx;
+  margin: 18rpx 0 20rpx 18rpx; 
+  padding-top: 23rpx; 
+  border-radius: 15rpx;
+}
+image {
+  width: 55rpx;
+  height: 145rpx;
+  margin-left: 69rpx;
+}
+.t1 {
+  font-size: 34rpx;
+  margin: 0 0 46rpx 23rpx;
+}
+.t2 {
+  font-size: 24rpx;
+  color: #666666;
+  margin: 18rpx 0 0 46rpx;
+}

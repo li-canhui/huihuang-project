@@ -1,0 +1,39 @@
+/* pages/index/expressNews-comp/expressNews-comp.wxss */
+/* 新闻快报样式 */
+.news-container {
+  display: flex;
+  text-align: center;
+  padding: 15rpx 10rpx 0 10rpx;
+  background-color: white;
+  margin: 0 auto;
+  border-radius: 15rpx;
+  width: 92%;
+  height: 55rpx;
+}
+.img1 {
+  width: 48rpx;
+  height: 43rpx;
+}
+.img2 {
+  width: 42rpx;
+  height: 35rpx;
+  margin-top: 5rpx;
+}
+.t1 {
+  font-size: 36rpx;
+  color: #404040;
+  width: 120rpx;
+  margin-top: -9rpx;
+}
+.t2 {
+  font-size: 28rpx;
+  color: #ff5c65;
+  width: 110rpx
+}
+.t3 {
+  font-size: 28rpx;
+  color: #333333;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}

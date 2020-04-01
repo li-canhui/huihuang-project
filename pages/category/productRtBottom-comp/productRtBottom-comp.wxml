@@ -1,0 +1,6 @@
+<!--pages/category/productRtBottom-comp/productRtBottom-comp.wxml-->
+<view class="container">
+  <view class="t1">酒柜</view>
+  <image class="img" src="../../../assets/images/categr-right/jg7.png" />
+  <view class="t2">酒柜</view>
+</view>

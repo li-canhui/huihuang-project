@@ -1,0 +1,12 @@
+<!--pages/category/search-comp/search-comp.wxml-->
+<!-- 分类顶部搜索栏组件 -->
+<view class="search-container">
+  <view class="search">
+    <image class="img"  src="../../../assets/images/more/search.png"/>
+    <input placeholder="请输入您想要的商品"></input>
+  </view>
+  <view class="information">
+    <image src="../../../assets/images/more/information.png"/>
+    <view>消息</view>
+  </view>
+</view>

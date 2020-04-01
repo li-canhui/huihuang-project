@@ -1,0 +1,33 @@
+/* pages/index/subsidy-comp/subsidy-comp.wxss */
+/* 百万补贴组件样式 */
+.subsidy-container {
+  height: 440rpx;
+  background-color: white;
+  width: 92%;
+  border-radius: 15rpx;
+  margin: 0 auto;
+  margin-top: 15rpx;
+  padding-top: 10rpx;
+}
+.stL {
+  width: 35rpx;
+  height: 30rpx;
+  margin-left: 275rpx;
+}
+.stR {
+  width: 35rpx;
+  height: 30rpx
+}
+text {
+  margin: 0 5rpx 0 5rpx;
+  color: #cd0001;
+}
+.img {
+  display: flex;
+  flex-wrap: wrap;
+}
+.img image {
+  width: 335rpx;
+  height: 195rpx;
+  margin-left: 9rpx;
+}

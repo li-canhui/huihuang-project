@@ -1,0 +1,15 @@
+<!--pages/profile/profile.wxml-->
+<!-- 顶部组件 -->
+<top-comp />
+<!-- 积分组件 -->
+<integral-comp />
+<!-- 我的订单-文字 -->
+<view>
+  <text class="t1">我的订单</text>
+  <text class="t2">查看全部</text>
+  <image class="img" src="../../assets/images/profiles/pf5.png"/>
+</view>
+<!-- 我的订单 -->
+<myOrder-comp />
+<!-- 底部组件 -->
+<bottom-comp />

@@ -1,0 +1,13 @@
+{
+  "component": true,
+  "usingComponents": {
+    "search-comp": "./search-comp/search-comp",
+    "navigationLeft-comp": "./navigationLeft-comp/navigationLeft-comp",
+    "productRtTop-comp": "./productRtTop-comp/productRtTop-comp",
+    "productRtMiddle-comp": "./productRtMiddle-comp/productRtMiddle-comp",
+    "productRtBottom-comp": "./productRtBottom-comp/productRtBottom-comp"
+  },
+    "navigationBarBackgroundColor": "#ff4c4f",
+    "navigationBarTitleText": "分类",
+    "navigationBarTextStyle": "white"
+}

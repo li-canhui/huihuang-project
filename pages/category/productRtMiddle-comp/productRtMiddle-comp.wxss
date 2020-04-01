@@ -1,0 +1,28 @@
+/* pages/index/subsidy-comp/subsidy-comp.wxss */
+/* 分类右边产品-中 组件样式 */
+.rightMiddle-container {
+  height: 520rpx;
+  background-color: white;
+  width: 500rpx;
+  border-radius: 15rpx;
+  margin: 0 auto;
+  padding-top: 23rpx;
+}
+.jhbx {
+  margin-left: 22rpx;
+}
+.img {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.img image {
+  width: 115rpx;
+  height: 180rpx;
+  margin: 20rpx 0 0 40rpx;
+}
+.img > view > view {
+  color: #666;
+  font-size: 24rpx;
+  margin: -10rpx 0 0 37rpx;
+}

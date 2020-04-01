@@ -1,0 +1,29 @@
+/* components/w-tab-control/w-tab-control.wxss */
+/* 左边导航条样式 */
+.tab-control {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  width: 190rpx;
+  height: 1090rpx;
+  position: fixed;
+  left: 0;
+  top: 121rpx;
+  padding: 0 10rpx 0 10rpx; 
+}
+
+.tab-item {
+  text-align: center;
+  font-size: 29rpx;
+  color: #666666;
+  border-radius: 30rpx;
+  width: 185rpx;
+  margin-top: 60rpx;
+  transform: translateY(-35rpx);
+  padding: 4rpx 0 4rpx 0;
+}
+
+.active {
+  color: white;
+  background-color: #ff4c4f;
+}

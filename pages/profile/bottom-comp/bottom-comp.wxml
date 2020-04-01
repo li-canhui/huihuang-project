@@ -1,0 +1,38 @@
+<!--pages/profile/bottom-comp/bottom-comp.wxml-->
+<!-- 我的-底部 -->
+<view class="bottom">
+  <image class="img1" src="../../../assets/images/profiles/pf10.png"/>
+  <text class="t1 s1">家电小学堂</text>
+  <image class="img2" src="../../../assets/images/profiles/pf5.png"/>
+</view>
+
+<view class="bottom">
+  <image class="img1" src="../../../assets/images/profiles/pf11.png"/>
+  <text class="t1 s2">收货地址管理</text>
+  <image class="img2" src="../../../assets/images/profiles/pf5.png"/>
+</view>
+
+<view class="bottom">
+  <image class="img1" src="../../../assets/images/profiles/pf12.png"/>
+  <text class="t1 s3">发票资质</text>
+  <text class="t2">添加发票资质</text>
+  <image class="img2" src="../../../assets/images/profiles/pf5.png"/>
+</view>
+
+<view class="bottom">
+  <image class="img1" src="../../../assets/images/profiles/pf13.png"/>
+  <text class="t1 s4">修改登录密码</text>
+  <image class="img2" src="../../../assets/images/profiles/pf5.png"/>
+</view>
+
+<view class="bottom">
+  <image class="img1" src="../../../assets/images/profiles/pf14.png"/>
+  <text class="t1 s5">物流时效</text>
+  <image class="img2" src="../../../assets/images/profiles/pf5.png"/>
+</view>
+
+<view class="bottom">
+  <image class="img1" src="../../../assets/images/profiles/pf15.png"/>
+  <text class="t1 s6">商城退换扣运费标准</text>
+  <image class="img2" src="../../../assets/images/profiles/pf5.png"/>
+</view>

@@ -1,0 +1,10 @@
+<!--pages/index/grid/grid.wxml-->
+<!-- 中部图标栏组件 -->
+<view class="weui-grids">
+		<a class="weui-grid" wx:for="{{ gridList }}" wx:key="index">
+	  		<view class="weui-grid__icon">
+	  			<image src="{{ item.url }}" alt></image>
+	  		</view>
+	  		<view class="weui-grid__label">{{ item.title }}</view>
+		</a>
+</view>

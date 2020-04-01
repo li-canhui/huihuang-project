@@ -1,0 +1,21 @@
+/* pages/profile/myOrder-comp/myOrder-comp.wxss */
+/* 我的订单 */
+.container {
+  display: flex;
+  font-size: 28rpx;
+  background-color: white;
+  width: 95%;
+  margin: 0 auto;
+  border-radius: 15rpx;
+  height: 140rpx;
+  padding-top: 25rpx;
+  margin-top: 25rpx;
+}
+.container > view {
+  flex: 1;
+  text-align: center;
+}
+.container > view > image {
+  width: 85rpx;
+  height: 60rpx;
+}

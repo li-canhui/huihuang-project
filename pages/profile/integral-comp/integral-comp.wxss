@@ -1,0 +1,24 @@
+/* pages/profile/integral-comp/integral-comp.wxss */
+/* 我的积分 样式 */
+.container {
+  display: flex;
+  font-size: 28rpx;
+  background-color: white;
+  width: 95%;
+  margin: 0 auto;
+  border-radius: 15rpx;
+  height: 140rpx;
+  padding-top: 25rpx;
+  position: absolute;
+  top: 140rpx;
+  left: 0;
+  right: 0; 
+}
+.container > view {
+  flex: 1;
+  text-align: center;
+}
+image {
+  width: 60rpx;
+  height: 60rpx;
+}

@@ -1,0 +1,13 @@
+<!--components/w-tab-control/w-tab-control.wxml-->
+<!-- 左边导航条 -->
+<!-- <scroll-view scroll-y> -->
+<scroll-view scroll-y class='tab-control'>
+  <block wx:for="{{ titles }}" wx:key="index">
+    <view class='tab-item {{ index == currentIndex ? "active" : "" }}'
+          bind:tap="itemClick" 
+          data-index="{{ index }}">
+      <text>{{ item.title }}</text>
+    </view>
+  </block>
+</scroll-view>
+<!-- </scroll-view> -->

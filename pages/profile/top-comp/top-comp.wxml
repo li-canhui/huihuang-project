@@ -1,0 +1,10 @@
+<!--pages/profile/top-comp/top-comp.wxml-->
+<!-- 我的-顶部 -->
+<view class="container">
+  <image class="img" src="../../../assets/images/profiles/pf1.png" />
+  <view class="user">G18344262100</view>
+  <view class="information">
+    <image src="../../../assets/images/more/information.png" />
+    <view>消息</view>
+  </view>
+</view>

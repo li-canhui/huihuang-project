@@ -3,8 +3,8 @@
 <view class="topSearchBar-container">
   <image src="../../../assets/images/more/dongmingzhu.png"/>
   <view class="text">
-    <view class="t1">辉煌商城</view>
-    <view class="t2">- 辉煌商城为您推荐 -</view>
+    <view class="t1">辉煌电器</view>
+    <view class="t2">- 辉煌电器为您推荐 -</view>
   </view>
   <search-comp />
   <view class="information">

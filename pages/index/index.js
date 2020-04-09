@@ -21,7 +21,7 @@ Page({
   },
   onShareAppMessage(options) {
     return {
-      title: "辉煌电器",
+      title: "格力电器",
       path: "/page/index/index",
       imageUrl: "../../assets/images/more/share.jpg"
     }

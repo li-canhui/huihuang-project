@@ -1,8 +1,8 @@
 <!--pages/index/subsidy-comp/subsidy-comp.wxml-->
-<!-- 百万补贴组件 -->
+<!-- 百亿补贴组件 -->
 <view class="subsidy-container">
   <image class="stL" src="../../../assets/images/more/strip-left.png"/>
-  <text>百万补贴</text>
+  <text>百亿补贴</text>
   <image class="stR" src="../../../assets/images/more/strip-right.png"/>
     <view class="img">
       <block wx:for="{{ subsidyList }}" wx:key="index">

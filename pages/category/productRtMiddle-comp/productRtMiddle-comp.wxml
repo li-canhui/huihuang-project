@@ -1,7 +1,7 @@
 <!--pages/index/subsidy-comp/subsidy-comp.wxml-->
 <!-- 分类右边产品-中 组件 -->
 <view class="rightMiddle-container">
-  <text class="jhbx">蓝晶冰箱</text>
+  <text class="jhbx">晶弘冰箱</text>
   <view class="img">
       <view>
         <image src="../../../assets/images/categr-right/bx2.png"/>

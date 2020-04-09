@@ -1,5 +1,5 @@
 /* pages/index/subsidy-comp/subsidy-comp.wxss */
-/* 百万补贴组件样式 */
+/* 百亿补贴组件样式 */
 .subsidy-container {
   height: 440rpx;
   background-color: white;
